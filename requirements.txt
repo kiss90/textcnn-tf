@@ -1,0 +1,7 @@
+numpy==1.16.3
+matplotlib==2.2.2
+pandas==0.23.0
+jieba==0.39
+tqdm==4.31.1
+scikit_learn==0.21.2
+tensorflow==1.13.1
