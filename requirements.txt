@@ -4,4 +4,4 @@ pandas==0.23.0
 jieba==0.39
 tqdm==4.31.1
 scikit_learn==0.21.2
-tensorflow==1.13.1
+tensorflow==2.7.2
